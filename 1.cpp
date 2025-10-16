@@ -9,7 +9,8 @@ vector<ll>v(n);
 {
 cin>>v[i];
 }
-    for(auto x:v)  cout<<x<<" ";  cout<<endl; 
+    for(auto x:v)  cout<<x<<" ";  
+    cout<<endl; 
 }
 int main(){
 ios::sync_with_stdio(false);
