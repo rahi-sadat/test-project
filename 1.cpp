@@ -11,6 +11,7 @@ cin>>v[i];
 }
     for(auto x:v)  cout<<x<<" ";  
     cout<<endl; 
+    //// this is the temp change 
 }
 int main(){
 ios::sync_with_stdio(false);
