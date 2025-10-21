@@ -8,7 +8,7 @@ vector<ll>v(n);
  for(int i=0;i<n;i++)
 {
 cin>>v[i];
-}    // i am making a small change 
+}    // i am making a change 
     for(auto x:v)  if(x>=2) cout<<x<<" ";  
     cout<<endl; 
 }
